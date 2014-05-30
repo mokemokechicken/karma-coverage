@@ -15,9 +15,13 @@
     "karma-preprocessor",
     "karma-reporter",
     "coverage",
-    "istanbul"
+    "istanbul",
+    "ibrik"
   ],
   "author": "SATO taichi <ryushi@gmail.com>",
+  "contributors": [
+    "Samuel Horwitz <sam@kargo.com> (http://kargo.com)"
+  ],
   "dependencies": {
     "istanbul": "~0.2.10",
     "ibrik": "~1.1.1",
