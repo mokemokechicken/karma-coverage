@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "istanbul": "~0.2.10",
-    "ibrik": "~1.1.1",
+    "ibrik": "git+https://github.com/KargoGlobal/ibrik.git#5f58ba1622359c7a8db456cae5cec02b2c1bc065",
     "dateformat": "~1.0.6",
     "minimatch": "~0.3.0"
   },
