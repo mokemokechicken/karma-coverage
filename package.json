@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "istanbul": "~0.2.10",
-    "ibrik": "git+https://github.com/mokemokechicken/ibrik.git#master",
+    "ibrik": "git+https://github.com/mokemokechicken/ibrik.git#coffee1.7.1",
     "dateformat": "~1.0.6",
     "minimatch": "~0.3.0"
   },
